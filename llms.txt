@@ -1,17 +1,20 @@
-# EOLOS DESIGN LAB · International Desk (eoloslab.com)
+# EOLOS DESIGN LAB · International (eoloslab.com)
 
-> EOLOS DESIGN LAB is a design studio with three local studios (Madrid, Stockholm, Athens)
-> and an International Desk that serves clients anywhere in the world. The desk offers a
-> curated set of services: brand identity and strategy, web design and build, creative
-> direction, and visualization by application. A senior partner leads every project, with
-> no account layer. Full local production stays with the studio that owns each market.
+> EOLOS DESIGN LAB is a commercial design studio. Three local studios (Madrid, Stockholm,
+> Athens) serve their home markets, and eoloslab.com is the international studio, working with
+> clients across every border. It offers six services: interior and spatial design, brand
+> identity and strategy, web design and build, creative direction, visualization, and an
+> integrated project that designs space, brand and web together on one brief. A senior partner
+> leads every project, with no account layer. How far each engagement goes depends on scope.
 > Part of the WOLFBLANC group.
 
 ## Services
+- Interior & Spatial Design: https://eoloslab.com/services/interior-design.html
 - Brand Identity & Strategy: https://eoloslab.com/services/brand-identity.html
 - Web Design & Build: https://eoloslab.com/services/web-design.html
 - Creative Direction: https://eoloslab.com/services/creative-direction.html
 - Visualization: https://eoloslab.com/services/visualization.html
+- Integrated Project (Space, Brand & Web): https://eoloslab.com/services/integrated-project.html
 - Services overview: https://eoloslab.com/services/
 
 ## Journal
