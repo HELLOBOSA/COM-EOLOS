@@ -9,12 +9,12 @@
 > Part of the WOLFBLANC group.
 
 ## Services
-- Interior & Spatial Design: https://eoloslab.com/services/interior-design.html
-- Brand Identity & Strategy: https://eoloslab.com/services/brand-identity.html
-- Web Design & Build: https://eoloslab.com/services/web-design.html
-- Creative Direction: https://eoloslab.com/services/creative-direction.html
-- Visualization: https://eoloslab.com/services/visualization.html
-- Integrated Project (Space, Brand & Web): https://eoloslab.com/services/integrated-project.html
+- Interior & Spatial Design: https://eoloslab.com/services/interior-design
+- Brand Identity & Strategy: https://eoloslab.com/services/brand-identity
+- Web Design & Build: https://eoloslab.com/services/web-design
+- Creative Direction: https://eoloslab.com/services/creative-direction
+- Visualization: https://eoloslab.com/services/visualization
+- Integrated Project (Space, Brand & Web): https://eoloslab.com/services/integrated-project
 - Services overview: https://eoloslab.com/services/
 
 ## Journal
