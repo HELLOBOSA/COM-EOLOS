@@ -339,7 +339,9 @@ h1,h2,h3,h4{margin:0;font-weight:400;}
 @media(max-width:620px){.cookie-banner{bottom:16px;max-width:calc(100vw - 20px);padding:8px 9px 8px 12px;gap:7px;}.cookie-copy{gap:7px;}.cookie-title,.cookie-btn{font-size:.5rem;}.cookie-link{font-size:.46rem;}.cookie-actions{gap:6px;}}
 @media(max-width:380px){.cookie-banner{flex-wrap:wrap;border-radius:18px;padding:9px 10px;row-gap:8px;}.cookie-copy,.cookie-actions{justify-content:center;}}
 </style>
-<style>.menu-toggle{display:none;}.mobile-menu{display:none;}</style>
+<style>.menu-toggle{display:none;}.mobile-menu{display:none;}
+@media(max-width:700px){.cookie-btn,.cookie-link{font-size:11px}}
+</style>
 <link rel="stylesheet" href="/shared-nav.css">
 <script defer src="/shared-nav.js"></script>
 </head>
@@ -758,7 +760,7 @@ h1,h2,h3,h4{margin:0;font-weight:400;}
   </div>
 </footer>
 <div class="cookie-banner" id="cookie-banner" role="region" aria-label="Cookie notice" hidden>
-  <div class="cookie-copy"><span class="cookie-title">We use cookies</span><a class="cookie-link" href="legal/#cookies">More info</a></div>
+  <div class="cookie-copy"><span class="cookie-title">We use cookies</span><a class="cookie-link" href="legal/#cookies">Info</a></div>
   <div class="cookie-actions"><button class="cookie-btn" type="button" data-cookie-choice="reject">Reject</button><button class="cookie-btn accept" type="button" data-cookie-choice="accept">Accept</button></div>
 </div>
 
